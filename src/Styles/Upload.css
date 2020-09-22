@@ -1,0 +1,32 @@
+.upload {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.upload__container {
+  border: 2px solid blue;
+  display: flex;
+  width: 400px;
+  align-items: center;
+  flex-direction: column;
+  height: 350px;
+}
+
+.upload__input {
+  width: 300px;
+  height: 25px;
+  margin-bottom: 20px;
+}
+
+.upload__submitButton {
+  width: 200px;
+  cursor: pointer;
+}
+
+.video__progress {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}

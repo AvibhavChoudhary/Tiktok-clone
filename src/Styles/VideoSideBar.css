@@ -1,0 +1,17 @@
+.videoSideBar {
+  position: absolute;
+  top: 30%;
+  color: white;
+  right: 10px;
+}
+
+.videoSideBar__button {
+  padding: 15px;
+  text-align: center;
+}
+
+.videoSideBar__deleteButton {
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+}
